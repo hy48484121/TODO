@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  padding: 50px 0;
+  background: rgb(253, 253, 192);
+  border-radius: 30px;
+}
+#add-list {
+  text-align: center;
+  margin-bottom: 80px;
+}
+#add-text {
+  min-width: 200px;
+  height: 30px;
+  margin-right: 20px;
+}
+#add-btn {
+  height: 35px;
+  width: 60px;
+}
+.todo {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+li {
+  margin: 12px;
+}
